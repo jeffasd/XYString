@@ -26,6 +26,8 @@
     
     NSLog(@"the length is %f", length);
     
+    NSLog(@"frist commit");
+    
 }
 
 - (void)didReceiveMemoryWarning {
